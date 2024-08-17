@@ -15,6 +15,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    comments:
+      giscus: 
+        repo: quarto-dev/quarto-docs
     include-in-header:
       - text: |
           <script src="https://giscus.app/client.js"
