@@ -18,6 +18,4 @@ format:
     comments:
       giscus: 
         repo: r-leyshon/quarto-giscus
-
-
-
+        repo-id: "R_kgDOMkzHGg"
