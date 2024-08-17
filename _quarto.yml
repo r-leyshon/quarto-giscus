@@ -21,5 +21,5 @@ format:
         repo-id: R_kgDOMkzHGg
         category: Announcements
         category-id: DIC_kwDOMkzHGs4ChvwI
-        mapping: pathname
-        theme: dark_high_contrast
+        mapping: url
+        theme: cobalt
