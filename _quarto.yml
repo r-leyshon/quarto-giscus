@@ -17,7 +17,7 @@ format:
     toc: true
     comments:
       giscus: 
-        repo: quarto-dev/quarto-docs
+        repo: r-leyshon/quarto-giscus
     include-in-header:
       - text: |
           <script src="https://giscus.app/client.js"
