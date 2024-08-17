@@ -19,3 +19,5 @@ format:
       giscus: 
         repo: r-leyshon/quarto-giscus
         repo-id: "R_kgDOMkzHGg"
+        category: "Announcements"
+        category-id: "DIC_kwDOMkzHGs4ChvwI"
